@@ -10,3 +10,6 @@ Resolução dos exercícios da disciplina Cálculo diferencial e integral I do c
 * **Edição: 9°**
 * **Autores: LAURENCE D. HOFFMANN & GERALD L. BRADLEY**
 
+## Contribuidores
+* **Mateus Henrique** - [Github](https://github.com/mateuschaves)
+
